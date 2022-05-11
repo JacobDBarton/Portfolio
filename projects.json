@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "",
+      "git": "https://github.com/JacobDBarton/JB-Trivia",
+      "image": "https://user-images.githubusercontent.com/100392625/163035781-9f97982f-32c8-444f-b25c-450440bc7a6f.png"
+    },
+    {
+      "name": "project2",
+      "live": "",
+      "git": "https://github.com/justingracie/Project-2---Collection-Cataloger",
+      "image": "https://github.com/justingracie/Project-2---Collection-Cataloger/raw/main/Images/TapeDisc_1.PNG"
+    }
+  ]
